@@ -1,0 +1,3 @@
+/home/voik/Рабочий стол/GameTemplateLinux/CMakeFiles/rebuild_cache.dir
+/home/voik/Рабочий стол/GameTemplateLinux/CMakeFiles/edit_cache.dir
+/home/voik/Рабочий стол/GameTemplateLinux/CMakeFiles/game.dir

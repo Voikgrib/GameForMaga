@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/voik/Рабочий стол/GameTemplateLinux/Engine.h
+stdint.h
+-
+
+/home/voik/Рабочий стол/GameTemplateLinux/Game.cpp
+Engine.h
+/home/voik/Рабочий стол/GameTemplateLinux/Engine.h
+stdlib.h
+-
+memory.h
+-
+iostream
+-
+time.h
+-
+stdio.h
+-
+math.h
+-
+vector2.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/vector2.hpp
+gameObject.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/gameObject.hpp
+asteroid.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/asteroid.hpp
+bullet.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/bullet.hpp
+text.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/text.hpp
+player.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/player.hpp
+manager.hpp
+/home/voik/Рабочий стол/GameTemplateLinux/manager.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/asteroid.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/bullet.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/gameObject.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/manager.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/player.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/text.hpp
+
+/home/voik/Рабочий стол/GameTemplateLinux/vector2.hpp
+
